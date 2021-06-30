@@ -20,4 +20,5 @@ Implementing the software with basic and minimal UI was necessary due to the lim
 ## Youtube Downloader
 
 Youtube Downloader downloads youtube videos when a link is entered.
+
 ![alt text](https://github.com/ajay-pk/Python-Automation/blob/main/images/youtubeDownloader.png)
