@@ -5,6 +5,8 @@ These tasks can be run either from the terminal or using a program software with
 
 This was a fun project to do, because to automate tasks like combining pdf and downloading youtube videos is a real life scenario solution.
 
+Implementing the software with basic and minimal UI was necessary due to the limitations of python
+
 ### List of Scripts
 
 * Youtube Downloader
