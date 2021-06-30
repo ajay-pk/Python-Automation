@@ -7,3 +7,5 @@ This was a fun project to do, because to automate tasks like combining pdf and d
 
 ### List of Scripts
 
+* Youtube Downloader
+* Combine pdf files
