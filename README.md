@@ -22,7 +22,7 @@ Implementing the software with basic and minimal UI was necessary due to the lim
 Youtube Downloader downloads youtube videos when a link is entered.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/ajay-pk/Python-Automation/blob/main/images/1.png">
+  <img  src="https://github.com/ajay-pk/Python-Automation/blob/main/images/1.png">
 
 </p>
 ## Image to PDF Converter
