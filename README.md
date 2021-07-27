@@ -21,7 +21,7 @@ Implementing the software with basic and minimal UI was necessary due to the lim
 
 Youtube Downloader downloads youtube videos when a link is entered.
 
-<img align="right" width="100" height="100" src="https://github.com/ajay-pk/Python-Automation/blob/main/images/1.png">
+<img align="center" src="https://github.com/ajay-pk/Python-Automation/blob/main/images/1.png">
 
 ![alt text](https://github.com/ajay-pk/Python-Automation/blob/main/images/1.png)
 
