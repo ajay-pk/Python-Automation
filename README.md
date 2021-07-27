@@ -26,4 +26,9 @@ Youtube Downloader downloads youtube videos when a link is entered.
 
 </p>
 ## Image to PDF Converter
-![alt text](https://github.com/ajay-pk/Python-Automation/blob/main/images/Screenshot%202021-07-27%20at%205.00.40%20PM.png)
+
+<p align="center">
+  <img  src="https://github.com/ajay-pk/Python-Automation/blob/main/images/Screenshot%202021-07-27%20at%205.00.40%20PM.png">
+
+</p>
+
